@@ -1,0 +1,44 @@
+Anthropic Certificates
+
+---
+
+Claude Certified Architect - Foundations (badge)
+Verify URL: https://www.credly.com/badges/16c1a720-eef4-4f25-aab3-7f2505aaae1e/public_url
+
+---
+
+Claude Certified Architect - Foundations (certification)
+Valid from 14-Jul-2026 until 14-Jul-2027
+Verify URL: 
+
+---
+
+AI Fluency: Frameworks & Foundations
+Verify URL: https://verify.skilljar.com/c/qm7vz8x37ned
+
+Building with the Claude API
+Verify URL: https://verify.skilljar.com/c/478n5qu55r5t
+
+Claude Code in Action
+Verify URL: https://verify.skilljar.com/c/gb6xzvdn86wp
+
+Claude with Google Cloud's Vertex AI
+Verify URL: https://verify.skilljar.com/c/di23whd2zomq
+
+Claude with Amazon Bedrock
+Verify URL: https://verify.skilljar.com/c/pp3swxnzhphf
+
+Introduction to Agent Skills
+Verify URL: https://verify.skilljar.com/c/fwomgah5jes7
+
+Introduction to Claude Cowork
+Verify URL: https://verify.skilljar.com/c/q6i7khbmihug
+
+Introduction to Model Context Protocol
+Verify URL: https://verify.skilljar.com/c/uspt26sx8kpm
+
+Introduction to Subagents
+Verify URL: https://verify.skilljar.com/c/f5bpss2so58z
+
+Model Context Protocol: Advanced Topics
+Verify URL: https://verify.skilljar.com/c/wm6s8s7z6cos

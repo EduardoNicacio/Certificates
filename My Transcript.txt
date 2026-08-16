@@ -1,0 +1,861 @@
+My Transcript
+
+
+
+
+Not Started2 items
+
+
+
+Not Started
+
+Learning Record
+Sort and filter column
+
+Name
+Sort and filter column
+
+Content Type
+Sort and filter column
+
+Registration Status
+Sort and filter column
+
+Date Enrolled
+Sort and filter column
+
+Completion Status
+Sort and filter column
+
+Attendance Status
+Sort and filter column
+
+Grade
+Sort and filter column
+
+Score
+Sort and filter column
+
+Record Type
+Sort and filter column
+Opens in new window
+Accenture Assets in conjunction with Ecosystem tools
+Digital Course
+Enrolled
+2026-06-04
+Not Started
+Do Not Track
+0
+Enrollment
+Opens in new window
+Agentic AI Ecosystem Tools Level 3A
+Program
+Enrolled
+2026-05-13
+Not Started
+Do Not Track
+0
+Enrollment
+In Progress15 items
+
+
+
+In Progress
+
+Learning Record
+Sort and filter column
+
+Name
+Sort and filter column
+
+Content Type
+Sort and filter column
+
+Registration Status
+Sort and filter column
+
+Date Enrolled
+Sort and filter column
+
+Completion Status
+Sort and filter column
+
+Attendance Status
+Sort and filter column
+
+Grade
+Sort and filter column
+
+Score
+Sort and filter column
+
+Record Type
+Sort and filter column
+Opens in new window
+(Cheatsheet) ASP.NET Razor Pages In-Depth Cheatsheet
+Digital Course
+Enrolled
+2026-08-16
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Cheatsheet) Data Visualization Basics Cheatsheet
+Digital Course
+Enrolled
+2026-08-16
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+Art of Reinvention Gold Credential
+Program
+Enrolled
+2026-08-15
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+Introduction to Machine Learning with Pytorch
+Digital Course
+Enrolled
+2026-08-15
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+AI Programming with Python
+Digital Course
+Enrolled
+2026-08-15
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+Deep Learning
+Digital Course
+Enrolled
+2026-08-15
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+Data Analyst
+Digital Course
+Enrolled
+2026-08-15
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+Statistics for Data Analysis
+Digital Course
+Enrolled
+2026-08-15
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+IAM - Okta Fundamentals
+Digital Course
+Enrolled
+2026-07-29
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Book) Solution Architecture Patterns for Enterprise: A Guide to Building Enterprise Software Systems
+Digital Course
+Enrolled
+2026-07-24
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+Cloud Developer using Microsoft Azure
+Digital Course
+Enrolled
+2026-07-14
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+Agentic AI Learning Plan: Technical (Partner)
+Program
+Enrolled
+2026-06-25
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+AWS Partner: Model Selection for Building Agents
+Digital Course
+Enrolled
+2026-06-25
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+201 - Intermediate - Retirement Services
+Digital Course
+Enrolled
+2026-06-02
+In Progress
+Do Not Track
+0
+Enrollment
+Opens in new window
+Introduction to Cybersecurity
+Digital Course
+Enrolled
+2026-03-18
+In Progress
+Do Not Track
+0
+Enrollment
+Learning History111 items
+
+
+
+Learning History
+
+Learning Record
+Sort and filter column
+
+Name
+Sort and filter column
+
+Content Type
+Sort and filter column
+
+Registration Status
+Sort and filter column
+
+Date Enrolled
+Sort and filter column
+
+Completion Status
+Sort and filter column
+
+Completion Date and Time
+Sort and filter column
+
+Attendance Status
+Sort and filter column
+
+Grade
+Sort and filter column
+
+Score
+Sort and filter column
+
+Record Type
+Sort and filter column
+Opens in new window
+Roll-Off Ready: Do It Right, Every Time
+Digital Course
+Enrolled
+2026-02-17
+Completed
+2026-02-17 10:10:26 a.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Guard the Gold
+Digital Course
+Enrolled
+2026-02-17
+Completed
+2026-02-17 10:03:49 a.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Full Stack FDE - Core
+Program
+Enrolled
+2026-02-12
+Completed
+2026-03-02 05:54:58 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Agentic AI Fluency
+Digital Course
+Enrolled
+2026-02-12
+Completed
+2026-02-24 09:04:36 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Full Stack FDE - Foundational
+Program
+Enrolled
+2026-02-12
+Completed
+2026-02-19 02:35:06 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Microsoft Generative AI for Beginners
+Digital Course
+Enrolled
+2026-02-12
+Completed
+2026-02-18 09:04:22 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Art of Reinvention Foundation
+Digital Course
+Enrolled
+2026-02-02
+Completed
+2026-05-14 06:52:03 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Reinvention with Agentic AI - Workshop
+Course Offering
+Enrolled
+2026-02-02
+Completed
+2026-02-04 11:00:00 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+COBE Insights: How we do business (FY26-B)
+Digital Course
+Enrolled
+2026-01-29
+Completed
+2026-01-29 10:04:40 a.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Mission: Protect with Permissions
+Digital Course
+Enrolled
+2026-01-28
+Completed
+2026-01-28 01:02:01 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Lock and Roll
+Digital Course
+Enrolled
+2026-01-28
+Completed
+2026-01-28 12:49:44 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Don’t Doubt, Reach Out
+Digital Course
+Enrolled
+2026-01-28
+Completed
+2026-01-28 12:44:17 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Generative AI
+Digital Course
+Enrolled
+2026-01-12
+Completed
+2026-03-05 10:09:09 a.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Reinvention with Agentic AI - Stanford Course
+Digital Course
+Enrolled
+2026-01-12
+Completed
+2026-02-02 02:17:53 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Reinvention with Agentic AI - Get Started
+Digital Course
+Enrolled
+2026-01-12
+Completed
+2026-01-12 06:52:02 p.m.
+Do Not Track
+1
+Enrollment
+Opens in new window
+Gen AI for Delivery Practitioners: Level 2 Trainings
+Digital Course
+Enrolled
+2025-11-07
+Completed
+2026-04-06 03:55:03 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+IS Advocate: Hack Hunters (FY26)
+Digital Course
+Enrolled
+2025-11-06
+Completed
+2025-11-06 06:48:22 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+COBE Insights: Our culture matters (FY26)
+Digital Course
+Enrolled
+2025-10-30
+Completed
+2025-10-30 11:18:38 a.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Agentic AI
+Digital Course
+Enrolled
+2025-10-22
+Completed
+2026-03-11 03:16:57 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Reinvention with Agentic AI
+Program
+Enrolled
+2025-10-22
+Completed
+2026-02-04 11:00:00 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) Software Testing: Implementing Unit Testing Best Practices
+Digital Course
+Enrolled
+2025-09-08
+Completed
+2025-09-08 11:14:18 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) Software Testing: Software Quality Assurance
+Digital Course
+Enrolled
+2025-09-08
+Completed
+2025-09-08 04:09:45 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Information Security Through the Ages-RTR (Inactive)
+Digital Course
+Enrolled
+2025-05-19
+Completed
+2025-05-19 12:54:12 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+The Infinite Scroll
+Digital Course
+Enrolled
+2025-05-19
+Completed
+2025-05-19 12:11:48 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Automation Architecture Previous Course Recap
+Digital Course
+Enrolled
+2025-04-18
+Completed
+2025-04-21 12:43:37 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Gen AI - Foundational Elements to start building TDLC use cases
+Digital Course
+Enrolled
+2025-04-16
+Completed
+2025-04-18 09:06:42 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) ChatGPT 3+: ChatGPT Prompt Engineering Examples & Use Cases
+Digital Course
+Enrolled
+2025-04-16
+Completed
+2025-04-16 09:57:23 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Gen AI Essentials
+Digital Course
+Enrolled
+2025-04-16
+Completed
+2025-04-16 07:59:50 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Gen AI for Automation Architects: Level 1 Trainings
+Program
+Enrolled
+2025-04-13
+Completed
+2025-04-21 12:43:37 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Gen AI for Delivery Practitioners: Level 1 Trainings
+Program
+Enrolled
+2025-04-13
+Completed
+2025-04-18 09:06:42 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Gen AI for Delivery Leads and Tech Services Leads: Level 1 Trainings
+Program
+Enrolled
+2025-04-13
+Completed
+2025-04-16 06:41:28 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Gen AI Essentials (DL/TSL)
+Digital Course
+Enrolled
+2025-04-13
+Completed
+2025-04-16 06:41:28 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) Generative AI APIs for Practical Applications: An Introduction
+Digital Course
+Enrolled
+2025-04-13
+Completed
+2025-04-13 08:11:27 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) Artificial Intelligence : Artificial Intelligence and Machine Learning
+Digital Course
+Enrolled
+2025-04-13
+Completed
+2025-04-13 06:40:03 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+COBE Fundamentals: Doing the right thing, including Responsible AI (FY25)-RTR (Inactive)
+Digital Course
+Enrolled
+2025-03-24
+Completed
+2025-04-06 05:02:49 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Conduct Counts Supervisor Training: How to Handle Concerns
+Digital Course
+Enrolled
+2024-11-25
+Completed
+2024-11-25 12:33:43 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+COBE Fundamentals: Living our Code (FY25)-RTR (Inactive)
+Digital Course
+Enrolled
+2024-11-25
+Completed
+2024-11-25 12:10:30 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+IS Advocate: When Harrie Met Bari (FY25/FY26)
+Digital Course
+Enrolled
+2024-11-13
+Completed
+2024-11-13 01:34:01 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) MS Azure DevOps Solutions: Design a Quality Strategy & Secure Development Process
+Digital Course
+Enrolled
+2024-08-15
+Completed
+2024-08-15 06:21:58 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) API: Refactoring API Code
+Digital Course
+Enrolled
+2024-08-14
+Completed
+2024-08-14 06:10:22 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) Software Design and Development: Modeling with UML
+Digital Course
+Enrolled
+2024-08-14
+Completed
+2024-08-14 01:41:05 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) Software Design and Development: Version Control System
+Digital Course
+Enrolled
+2024-08-13
+Completed
+2024-08-13 06:44:23 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) Software Design and Development: Design Patterns & SOLID Principles
+Digital Course
+Enrolled
+2024-08-13
+Completed
+2024-08-13 05:26:00 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) Software Design and Development: Object-oriented Analysis and Design
+Digital Course
+Enrolled
+2024-08-13
+Completed
+2024-08-13 04:12:07 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) Software Design and Development: Methodologies
+Digital Course
+Enrolled
+2024-08-13
+Completed
+2024-08-13 02:18:33 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) Refactoring ML/DL Algorithms: Refactor Machine Learning Algorithms
+Digital Course
+Enrolled
+2024-08-12
+Completed
+2026-05-27 04:11:00 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) Azure DevOps: Repository & Pipeline Management
+Digital Course
+Enrolled
+2024-08-12
+Completed
+2025-09-05 08:57:11 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) Scaling DevOps: Infrastructure at Scale
+Digital Course
+Enrolled
+2024-08-12
+Completed
+2025-09-04 10:33:31 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) DevOps Mindset: Understanding DevOps Tools
+Digital Course
+Enrolled
+2024-08-12
+Completed
+2025-09-02 09:34:06 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) Software Design and Development: Software Engineering & SDLC Phases
+Digital Course
+Enrolled
+2024-08-12
+Completed
+2024-08-12 05:00:56 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) MS Azure DevOps Solutions: Manage Code Quality & Security Policies
+Digital Course
+Enrolled
+2024-08-12
+Completed
+2024-08-12 02:06:32 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) API Security (Inactive)
+Digital Course
+Enrolled
+2024-08-07
+Completed
+2024-08-07 06:20:04 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) CCSP 2019: Application Development & Security (Inactive)
+Digital Course
+Enrolled
+2024-08-07
+Completed
+2024-08-07 02:55:04 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) CCSP 2019: Identity & Access Management (Inactive)
+Digital Course
+Enrolled
+2024-08-07
+Completed
+2024-08-07 01:23:04 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+IS Advocate: A Phishing Tale (FY25)-RTR (Inactive)
+Digital Course
+Enrolled
+2024-08-06
+Completed
+2024-08-06 03:00:00 a.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+(Course) OWASP Top 10: Securing Web Applications
+Digital Course
+Enrolled
+2024-07-30
+Completed
+2024-07-30 01:57:54 p.m.
+Do Not Track
+0
+Enrollment
+Opens in new window
+Art of Reinvention Foundation
+Digital Course
+Completed
+2026-06-08 01:44:16 p.m.
+0
+Equivalent Record
+Opens in new window
+Reinvention with Agentic AI - Workshop
+Blended Course
+Completed
+2026-05-15 05:34:48 p.m.
+0
+Equivalent Record
+Opens in new window
+COBE Insights: Integrity in times of change (FY26-A)
+Digital Course
+Completed
+2026-03-26 10:37:15 a.m.
+0
+Equivalent Record
+Opens in new window
+COBE Insights: How we do business (FY26-A)
+Digital Course
+Completed
+2026-01-29 10:04:40 a.m.
+0
+Equivalent Record
+Opens in new window
+COBE Fundamentals: Doing the right thing (FY25)-RTR (Inactive)
+Digital Course
+Completed
+2025-04-06 05:02:49 p.m.
+0
+Equivalent Record
