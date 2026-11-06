@@ -39,6 +39,12 @@ Professional certifications, courses, and training completed by **Eduardo Nicaci
 | Agentic Thinking 101 | Udacity | Sep 24, 2026 | [Verify](https://www.udacity.com/certificate/e/78cdfec6-b83e-11f1-bd16-ef2c92305810) |
 | TQ Physical AI | Udacity | Oct 25, 2026 | [Verify](https://www.udacity.com/certificate/e/ec227e3c-cc8a-11f1-a4af-27ec851e5a2d) |
 
+### Percipio (Skillsoft) Courses
+
+| Certificate | Issuing Organization | Date | Certificate No. | Credential URL |
+| --- | --- | --- | --- | --- |
+| Refactoring ML/DL Algorithms: Refactor Machine Learning Algorithms | Percipio (Skillsoft) | May 27, 2026 | 1840983 | — |
+
 ### Anthropic Certifications
 
 | Certificate | Issuing Organization | Date | Credential URL |
@@ -67,6 +73,9 @@ Professional certifications, courses, and training completed by **Eduardo Nicaci
 | Spot the Scam | Accenture | Mar 26, 2026 | Internal |
 | Working with Governments | Accenture | Mar 2026 | Internal |
 | GenAI in TDLC Level 2 | Accenture | Apr 12, 2026 | Internal |
+| Accenture Certified Full-Stack FDE | Accenture | Jul 20, 2026 | [Credly](https://www.credly.com/go/2H5WDinB) |
+| Cybersecurity Play By Play | Accenture | Sep 24, 2026 | Internal |
+| The Pretenders - Social Engineering Training | Accenture | Oct 28, 2026 | Internal |
 | CliftonStrengths | Gallup | Feb 2026 | [Gallup Access](https://www.gallup.com/access/) |
 
 ### Badges & Credentials
@@ -83,14 +92,23 @@ Professional certifications, courses, and training completed by **Eduardo Nicaci
 
 ## 2025
 
-### Courses & Training
+### Percipio (Skillsoft) Courses
+
+| Certificate | Issuing Organization | Date | Certificate No. | Credential URL |
+| --- | --- | --- | --- | --- |
+| Artificial Intelligence and Machine Learning | Percipio (Skillsoft) | Apr 13, 2025 | 1840993 | — |
+| Generative AI APIs for Practical Applications: An Introduction | Percipio (Skillsoft) | Apr 13, 2025 | 1840992 | — |
+| ChatGPT Prompt Engineering Examples & Use Cases | Percipio (Skillsoft) | Apr 16, 2025 | 1840991 | — |
+| DevOps Mindset: Understanding DevOps Tools | Percipio (Skillsoft) | Sep 2, 2025 | 1840990 | — |
+| Scaling DevOps: Infrastructure at Scale | Percipio (Skillsoft) | Sep 4, 2025 | 1840989 | — |
+| Azure DevOps: Repository & Pipeline Management | Percipio (Skillsoft) | Sep 5, 2025 | 1840986 | — |
+| Software Quality Assurance | Percipio (Skillsoft) | Sep 8, 2025 | — | — |
+| Implementing Unit Testing Best Practices | Percipio (Skillsoft) | Sep 8, 2025 | 1840984 | — |
+
+### Accenture Training
 
 | Certificate | Issuing Organization | Date | Credential URL |
 | --- | --- | --- | --- |
-| Artificial Intelligence and Machine Learning | Udacity | Apr 13, 2025 | — |
-| Generative AI APIs for Practical Applications: An Introduction | Udacity | Apr 13, 2025 | — |
-| ChatGPT Prompt Engineering Examples & Use Cases | Udacity | Apr 16, 2025 | — |
-| Implementing Unit Testing Best Practices | Udacity | Sep 8, 2025 | — |
 | IS Advocate - IS Through the Ages | Accenture | 2025 | Internal |
 | IS Advocate - The Infinite Scroll | Accenture | 2025 | Internal |
 
@@ -105,6 +123,33 @@ Professional certifications, courses, and training completed by **Eduardo Nicaci
 ---
 
 ## 2024
+
+### Percipio (Skillsoft) Courses
+
+| Certificate | Issuing Organization | Date | Certificate No. | Credential URL |
+| --- | --- | --- | --- | --- |
+| OWASP Top 10: Securing Web Applications | Percipio (Skillsoft) | Jul 30, 2024 | 1841010 | — |
+| API Security | Percipio (Skillsoft) | Aug 7, 2024 | 1841007 | — |
+| CCSP 2019: Application Development & Security | Percipio (Skillsoft) | Aug 7, 2024 | 1841008 | — |
+| CCSP 2019: Identity & Access Management | Percipio (Skillsoft) | Aug 7, 2024 | 1841009 | — |
+| MS Azure DevOps Solutions: Manage Code Quality & Security Policies | Percipio (Skillsoft) | Aug 12, 2024 | 1841006 | — |
+| Software Design and Development: Software Engineering & SDLC Phases | Percipio (Skillsoft) | Aug 12, 2024 | — | — |
+| Software Design and Development: Design Patterns & SOLID Principles | Percipio (Skillsoft) | Aug 13, 2024 | 1840999 | — |
+| Software Design and Development: Methodologies | Percipio (Skillsoft) | Aug 13, 2024 | 1841001 | — |
+| Software Design and Development: Object-oriented Analysis and Design | Percipio (Skillsoft) | Aug 13, 2024 | 1841000 | — |
+| Software Design and Development: Version Control System | Percipio (Skillsoft) | Aug 13, 2024 | 1840998 | — |
+| Refactoring API Code | Percipio (Skillsoft) | Aug 14, 2024 | 1840995 | — |
+| Software Design and Development: Modeling with UML | Percipio (Skillsoft) | Aug 14, 2024 | 1840997 | — |
+| MS Azure DevOps Solutions: Design a Quality Strategy & Secure Development Process | Percipio (Skillsoft) | Aug 15, 2024 | 1840994 | — |
+
+### Accenture Training
+
+| Certificate | Issuing Organization | Date | Credential URL |
+| --- | --- | --- | --- |
+| Guardians of the Cyberverse - Application Developer | Accenture | Aug 6, 2024 | Internal |
+| factorOS | Accenture | Aug 6, 2024 | Internal |
+| A Phishing Tale | Accenture | Aug 6, 2024 | Internal |
+| When Harrie met Bari | Accenture | Nov 13, 2024 | Internal |
 
 ### Compliance & Ethics
 
@@ -137,10 +182,10 @@ Professional certifications, courses, and training completed by **Eduardo Nicaci
 
 | Year | Certificates | Badges |
 | --- | --- | --- |
-| 2026 | 41 | 5 |
-| 2025 | 9 | — |
-| 2024 | 3 | — |
-| **Total** | **53** | **5** |
+| 2026 | 45 | 5 |
+| 2025 | 13 | — |
+| 2024 | 20 | — |
+| **Total** | **78** | **5** |
 
 ---
 
